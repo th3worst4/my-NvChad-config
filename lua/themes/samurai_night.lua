@@ -50,9 +50,9 @@ M.base_16 = {
   base08 = "#eeeeee",
   base09 = "#e86b0b",
   base0A = "#981c1a",
-  base0B = "#49aa14",
+  base0B = "#47db08",
   base0C = "#981c1a",
-  base0D = "#e83f0b",
+  base0D = "#f22424",
   base0E = "#f53c3c",
   base0F = "#981c1a"
 }
