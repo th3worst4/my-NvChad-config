@@ -54,7 +54,7 @@ M.base_16 = {
   base0C = "#981c1a",
   base0D = "#f22424",
   base0E = "#f53c3c",
-  base0F = "#981c1a"
+  base0F = "#bbbbbb"
 }
 
 -- set the theme type whether is dark or light
