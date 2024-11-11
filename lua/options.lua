@@ -11,3 +11,7 @@ o.whichwrap = "b,s"
 o.linebreak= false
 
 o.clipboard = "unnamedplus"
+
+o.shiftwidth = 4
+o.tabstop = 4
+o.softtabstop = 4
