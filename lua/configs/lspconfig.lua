@@ -46,6 +46,7 @@ lspconfig.rust_analyzer.setup({
 })
 
 lspconfig.gopls.setup({
+  on_attach = nvlsp.on_attach,
   settings = {
     gopls = {
       analyses = {
